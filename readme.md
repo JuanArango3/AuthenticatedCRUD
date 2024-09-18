@@ -1,6 +1,6 @@
 # AuthenticatedCRUD
 
-Esta es una API para manejar información de películas, donde puedes crear, listar y filtrar películas por año de lanzamiento o precio.
+Esta es una API para manejar información de películas, donde se puede crear, listar y filtrar películas por año de lanzamiento o precio.
 
 ## Requisitos
 
